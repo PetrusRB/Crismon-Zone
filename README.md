@@ -2,7 +2,7 @@
 
 **Crismon Zone** é um intenso jogo *Battle Royale* onde estratégia, reflexos e caos colidem em uma arena brutal e estilosa. Apenas um sobrevive. Você está pronto?
 
-![Banner do Jogo](https://photos.fife.usercontent.google.com/pw/AP1GczPHJjTWdW3ZkRrVxd2Ti-4Pk3pvHJF8JPwoVhS7ctiLSQHDqlKuL7c=s220-no?authuser=0)
+![Banner do Jogo]([https://photos.fife.usercontent.google.com/pw/AP1GczPHJjTWdW3ZkRrVxd2Ti-4Pk3pvHJF8JPwoVhS7ctiLSQHDqlKuL7c=s220-no?authuser=0](https://photos.fife.usercontent.google.com/pw/AP1GczPHJjTWdW3ZkRrVxd2Ti-4Pk3pvHJF8JPwoVhS7ctiLSQHDqlKuL7c=w655-h655-s-no-gm?authuser=0))
 
 ---
 
